@@ -99,7 +99,7 @@ p{
 
 .container .picture .overlay {
     background: rgba(116, 36, 165, 0.7);
-    
+    height: 100%;
     border-radius: 0 10px 10px 0;
 }
  
